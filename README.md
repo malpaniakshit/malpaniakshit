@@ -12,12 +12,11 @@ salons, gyms, and cafes across the US and UK.
 
 ## 🛠️ Skills
 - HTML · CSS · JavaScript
-- UI/UX Design
 - Local SEO Optimization
 - Netlify · GitHub Pages Deployment
 
 ## 📬 Contact
-- 📧 Email: your@email.com
+- 📧 Email: malpaniakshit@email.com
 - 💼 Agency: [Zenith Web Agency](https://zenithwebagency.github.io)
 
 <!--
@@ -25,7 +24,8 @@ salons, gyms, and cafes across the US and UK.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Pythyon Learning ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
