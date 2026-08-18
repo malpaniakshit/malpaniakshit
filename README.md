@@ -2,7 +2,7 @@
 
 🚀 Founder of **[Zenith Web Agency](https://zenithwebagency.github.io)**  
 🎨 Web Designer specializing in premium local business websites  
-🎓 CS Student | Open to freelance & internship opportunities  
+🎓 CSIT Student | Open to freelance & internship opportunities  
 
 ## 🌐 My Agency
 I run Zenith Web Agency where I build custom websites for restaurants,
@@ -17,6 +17,7 @@ salons, gyms, and cafes across the US and UK.
 
 ## 📬 Contact
 - 📧 Email: malpaniakshit@email.com
+- Student Email ID: akshit.malpani@somaiya.edu
 - 💼 Agency: [Zenith Web Agency](https://zenithwebagency.github.io)
 
 <!--
